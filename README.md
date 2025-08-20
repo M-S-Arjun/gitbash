@@ -122,3 +122,4 @@ The following API endpoints are available:
 - Develop detailed frontend UI for chat, journal, and dashboard.
 - Implement safety layer for AI responses.
 - Deployment configurations for Vercel/Netlify and Render/Heroku.
+hello
